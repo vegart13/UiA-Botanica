@@ -41,7 +41,7 @@ def sendEmail(smtp_message):
 
 def callback(channel):
         if GPIO.input(channel):
-                print ("Water Detected!" + GPIO.IN)
+                print ("Water Detected!" + GPIO.input(channel))
                 sendEmail:message_dead
         else:
                 print ("Water Detected!")
@@ -52,4 +52,4 @@ GPIO.add_event_callback(channel, callback)  # assign function to GPIO PIN, Run f
 
 # infinite loop
 while True:
-        time.sleep(1)
+        time.sleep(60)
