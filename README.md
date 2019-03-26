@@ -2,7 +2,7 @@
 
 ###### To do list
 #Photosession med Pi for dokumentasjon  
-Version Control  
+Version Control(Kan sende epost og detecte vann,V1.0).  
 Set-up guide  
 Dokumentasjon  
 #Forbedring av kode(Refactor)  
