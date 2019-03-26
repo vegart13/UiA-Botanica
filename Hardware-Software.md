@@ -1,14 +1,14 @@
 Disse skal være hyperlinks i github
 Hardware used in the project:      
-Raspberry Pi 3B      
-Humidity Sensor      
-Analog to digital signal converter     
+[Raspberry Pi 3B](https://www.power.no/datakomponenter/hovedkort/raspberry-pi-3-model-b/p-875483/)      
+[Humidity Sensor      
+Analog to digital signal converter](https://www.ebay.com/itm/New-16pcs-Sensor-Module-Board-Kit-for-Arduino-Raspberry-Pi-3-B-2-Model-B/382512267088?ssPageName=STRK%3AMEBIDX%3AIT&_trksid=p2057872.m2749.l2649)     
 5 kabler      
 
 Software      
-Python 3      
-Raspbian      
-Pycharm(To program outside the raspberry)      
+[Python 3](https://www.python.org/download/releases/3.0/)      
+[Raspbian](https://www.raspberrypi.org/downloads/raspbian/)      
+[Pycharm](https://www.jetbrains.com/pycharm/) (To program outside the raspberry)      
 
 
 To install the software needed for our program to run just follow the instructions in the links above.
