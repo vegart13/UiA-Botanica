@@ -1,4 +1,4 @@
-Disse skal være hyperlinks i github
+
 Hardware used in the project:      
 [Raspberry Pi 3B](https://www.power.no/datakomponenter/hovedkort/raspberry-pi-3-model-b/p-875483/)      
 [Humidity Sensor      
