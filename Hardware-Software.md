@@ -1,14 +1,14 @@
 Disse skal være hyperlinks i github
-Hardware used in the project:
-Raspberry Pi 3B
-Humidity Sensor
-Analog to digital signal converter
-5 kabler
+Hardware used in the project:      
+Raspberry Pi 3B      
+Humidity Sensor      
+Analog to digital signal converter     
+5 kabler      
 
-Software
-Python 3
-Raspbian
-Pycharm(To program outside the raspberry)
+Software      
+Python 3      
+Raspbian      
+Pycharm(To program outside the raspberry)      
 
 
 To install the software needed for our program to run just follow the instructions in the links above.
