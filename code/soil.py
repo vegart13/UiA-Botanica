@@ -7,7 +7,7 @@ import smtplib
 channel = 21
 GPIO.setmode(GPIO.BCM)
 GPIO.setup(channel, GPIO.IN)
-
+water_threshhold = 150 #The values go between 0 and 1024 meaning that 150 is aprox 15%
 #Email SETUP
 smtp_username = "uia.botanica1@gmail.com" # This is the username used to login to your SMTP provider
 smtp_password = "crumb2019" # This is the password used to login to your SMTP provider
@@ -40,11 +40,11 @@ def sendEmail(smtp_message):
 		print ("Error: unable to send email")
 
 def callback(channel):
-        if GPIO.input(channel):
+        if GPIO.input(channel) > water_threshhold:
                 print ("Water Detected!" + GPIO.input(channel))
                 sendEmail:message_dead
         else:
-                print ("Water Detected!")
+                print ("Water not Detected!")
                 sendEmail:message_alive
 
 GPIO.add_event_detect(channel, GPIO.BOTH, bouncetime=300)  # let us know when the pin goes HIGH or LOW
