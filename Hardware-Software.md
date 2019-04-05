@@ -5,6 +5,8 @@ Hardware used in the project:
 Analog to digital signal converter](https://www.ebay.com/itm/New-16pcs-Sensor-Module-Board-Kit-for-Arduino-Raspberry-Pi-3-B-2-Model-B/382512267088?ssPageName=STRK%3AMEBIDX%3AIT&_trksid=p2057872.m2749.l2649)     
 5 kabler      
 [SD Card](https://www.amazon.co.uk/MENGMI-micro-memory-Adapter-galaxy/dp/B07D78GR7L/ref=sr_1_2_sspa?keywords=micro+sd+card&qid=1554457056&s=gateway&sr=8-2-spons&psc=1)     
+[Power Adapter](https://www.amazon.co.uk/Official-Power-Adapter-Raspberry-Pi/dp/B01CO1ELT8?fbclid=IwAR2pNH3nZA-89GV5FpsJyG9LwJ7D3iFLRlFfQn3B4wOeER8BVs9VuNlxyQI)      
+
 Software      
 [Python 3](https://www.python.org/download/releases/3.0/)      
 [Raspbian](https://www.raspberrypi.org/downloads/raspbian/)      
