@@ -9,16 +9,16 @@ GPIO.setmode(GPIO.BCM)
 GPIO.setup(channel, GPIO.IN)
 water_threshhold = 150 #The values go between 0 and 1024 meaning that 150 is aprox 15%
 #Email SETUP
-smtp_username = "uia.botanica1@gmail.com" # This is the username used to login to your SMTP provider
-smtp_password = "crumb2019" # This is the password used to login to your SMTP provider
+smtp_username = "" # This is the username used to login to your SMTP provider
+smtp_password = "" # This is the password used to login to your SMTP provider
 smtp_host = "smtp.gmail.com" # This is the host of the SMTP provider
 smtp_port = 587 # This is the port that your SMTP provider uses
 
-smtp_sender = "uia.botanica1@gmail.com" # This is the FROM email address
-smtp_receivers = ['xuw@live.no'] # This is the TO email address
-
+smtp_sender = "" # This is the FROM email address
+smtp_receivers = [''] # This is the TO email address
+#change reciever email above and below on both variables
 message_dead = """From: Sender Name <uia.botanica1@gmail.com>
-To: Receiver Name <xuw@live.no>
+To: Receiver Name <>
 Subject: Moisture Sensor Notification
 Warning, no moisture detected! Plant death imminent!!! :'(
 """
@@ -26,7 +26,7 @@ Warning, no moisture detected! Plant death imminent!!! :'(
 # This is the message that will be sent when moisture IS detected again
 
 message_alive = """From: Sender Name <uia.botanica1@gmail.com>
-To: Receiver Name <xuw@live.no>
+To: Receiver Name <>
 Subject: Moisture Sensor Notification
 Panic over! Plant has water again :)
 """
