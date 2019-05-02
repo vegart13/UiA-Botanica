@@ -1,1 +1,10 @@
+For smtp to work with your mail certain configurations need to be made to your email. Here is a guide to how you enable
+it in gmail. 
 
+You first have to navigate to the settings tab shown in the first screenshot link below at step 1. After settings is opened
+there are tabs at the top of the main window. Click on the "FORWARDING AND POP/IMAP" tab.
+https://imgur.com/M19CPE2
+
+Once you have opened the "FORWARDING AND POP/IMAP" tab you need to find the "enable IMAP" setting. See the screenshot below if
+you have difficulties finding it. Once it's enabled your mail is set up for smtp.
+https://imgur.com/N6xASrk
