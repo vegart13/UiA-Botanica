@@ -1,11 +1,7 @@
 # Uia.Botanica
 
-###### To do list
-#Photosession med Pi for dokumentasjon  
-#Version Control(Kan sende epost og detecte vann,V1.0).  
--Set-up guide  
--Dokumentasjon  
-#Forbedring av kode(Refactor)  
-#Legge til grense for når den ska sende epost  
-#Lisens  
-Skjermdump av data  
+###### Where to?
+[Link to the software and hardware list](https://github.com/vegart13/Uia.Botanica/blob/master/Hardware-Software.md)      
+[Link to our code](https://github.com/vegart13/Uia.Botanica/blob/master/code/soil.py)      
+[Link to our setup guide](https://github.com/vegart13/Uia.Botanica/blob/master/setup-guide.md)      
+This code is distributed under the MIT License meaning you are free to do as you want with it, go to town!      
