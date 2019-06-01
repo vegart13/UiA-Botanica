@@ -1,6 +1,6 @@
 # Uia.Botanica
 
-[Who is this usefull for?](Who would find this useful?)
+[Who is this usefull for?](https://github.com/vegart13/Uia.Botanica/blob/master/Who would find this useful?)
 -----------------------------
 We think that the target user group for this kind of device are students living alone or small
 homes where you need a little help to keep your plants alive. 
