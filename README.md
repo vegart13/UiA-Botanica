@@ -4,7 +4,6 @@ There are several ways to keep your plants alive, this is one way we tought coul
 
 Here you will find a few simple steps to get you started.
 
-###### Where to?
 
 [Software and hardware list](https://github.com/vegart13/Uia.Botanica/blob/master/Hardware-Software.md) 
 
