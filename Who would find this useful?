@@ -1,0 +1,22 @@
+
+Who would find this useful?
+-----------------------------------------------------
+
+We think that the target user group for this kind of device are students living alone or small
+homes where you have a few plants to help you take care of your plants. 
+
+What we have now is one device (Sensor) connected to one “brain” (Pi), but we know that you can get wireless
+sensors, which would allow us to connect several devices to one brain. There are also options for
+cheaper pi’es if you can’t get wireless devices. What we are trying to say is that you have a few
+options for setting this up to suit your needs. By following the set up guide step by step that we have
+provided. Everyone should be able to set this up even with no or minimal coding experience.
+
+We would also like to add that it is quite possible to incorporate this with other projects. For example
+you could have pi mirror project and have a continuous “stream”/ update of the sensors. Marking
+them red for example if the plant needs water. A system like that could be as follows: green numbers = good
+status. Orange = needs water soon and red is critical status, it needs water asap. Just to name another use for this hardware/project.
+
+Further development of the project would be to contact some botanists to discuss further progress.
+Some examples could be, plant species and water level for each type of plant. We could also get some
+light sensors or light sources to make the ideal environment for the plants, there is a lot that can be
+done. Only you limit yourself.
