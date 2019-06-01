@@ -5,12 +5,11 @@ There are several ways to keep your plants alive, this is one way we tought coul
 Here you will find a few simple steps to get you started.
 
 
-[Software and hardware list](https://github.com/vegart13/Uia.Botanica/blob/master/Hardware-Software.md) 
-
+[Software and hardware list](https://github.com/vegart13/Uia.Botanica/blob/master/Hardware-Software.md)
 This list contains the software and hardware we used and how to obtain it.
 
 
-[The hardware we used](https://imgur.com/a/UtMBjId) 
+[The hardware we used](https://imgur.com/a/UtMBjId)
 A few pictures to show you what hardware we used, and how we set it up.
 
 
