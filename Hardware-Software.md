@@ -13,18 +13,11 @@ Software
 [Pycharm](https://www.jetbrains.com/pycharm/) (To program outside the raspberry)  
 
 
+You can find picture on how to set up your hardware on the github, or on imgur here (https://imgur.com/a/UtMBjId)
 
-To install the software needed for our program to run just follow the instructions in the links above.
+
 When buying our sensors we bought a bag with several and therefore we don’t exactly know the model number of our humidity sensor and analog converter but from what we have seen any other model should work just fine as they are all very similar if not equal to each other.
 If you buy or have a different Raspberry Pi model you have to find the correct pins to take in input and change the GPIO.IN variable in the python script, as you will see in the setup guide.
 
 
-1. Raspbian.
-The first thing you have to do is to hook up your sd card to a computer. 
-2. Optional Pycharm.
-3. Create a gmail account. 
-4. Download our code from github
-5. Open our code either on you computer (requieres python editor like pycharm) or open directly on your pi.
-6. Follow the instructions inside the code and edit the correct parts
-7. Run the code, and test the hardware with a glass of water. If you get an emial you are correctly set up.
-8. Now install the hardware where you plan to use it. Very nice!
+
