@@ -2,7 +2,7 @@
 
 [Who is this usefull for?](https://github.com/vegart13/Uia.Botanica/blob/master/Who%20would%20find%20this%20useful%3F)
 -----------------------------
-We think that the target user group for this kind of device are students living alone or small
+(tldr:) We think that the target user group for this kind of device are students living alone or small
 homes where you need a little help to keep your plants alive. 
 
 There are several ways to keep your plants alive, this is one way we tought could benefit people who often forget to water their plants. A system that will email you when your plant needs water. 
