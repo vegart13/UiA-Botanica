@@ -6,6 +6,7 @@ Here you will find a few simple steps to get you started.
 
 
 [Software and hardware list](https://github.com/vegart13/Uia.Botanica/blob/master/Hardware-Software.md) 
+
 This list contains the software and hardware we used and how to obtain it.
 
 
