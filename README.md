@@ -1,6 +1,6 @@
 # Uia.Botanica
 
-There are more then one way to keep your plants alive, this is one way we tought could benefit people who often forget to water their plants. A system that tells you when your plant wants water via emial. 
+There are several ways to keep your plants alive, this is one way we tought could benefit people who often forget to water their plants. A system that will email you when your plant needs water. 
 
 Here you will find a few simple steps to get you started.
 
